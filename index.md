@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Day 4/5 of 100 Days of Coding
 
-You can use the [editor on GitHub](https://github.com/MsNikki-85/MsNikki-85.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Day 4 &5 of learning Python!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Day 4 I had a busy day at home with family with a lot of distractions. When I put my kids down for a nap, I built another game! This time it’s a guess the number game! I was not interested in learning anything so I decided to do something that would be fun.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Day 5: I practiced building loops and functions. As I built loops and functions, I made sure to focus on the components of each part. Making sure that I understand when I build a loop what the continue, break, and else parts are, what does it mean, and why are they important to building my loops!
+Once again thank you for following this journey!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MsNikki-85/MsNikki-85.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please make sure you like and subscribe to my YouTube Channel: https://www.youtube.com/channel/UCqsBe5XF3kBC1I2p-Scx2XA
